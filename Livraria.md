@@ -1,8 +1,8 @@
 # Livraria
-Desafio 1
 
-Uma livraria da cidade teve um aumento no número de seus exemplares e está com um problema para identificar todos os livros que possui em estoque. Para ajudar a livraria foi solicitado a você desenvolver uma aplicação web para gerenciar estes exemplares.Requisitos
+Comentários by alessandroBettio:
 
+Requisitos:
     O sistema deverá mostrar todos os livros cadastrados ordenados de forma ascendente pelo nome. => OK
     Ao persistir, validar se o livra já foi cadastrado.                                           => OK - apenas via API
     O sistema deverá permitir criar, editar e excluir um livro.                                   => OK
